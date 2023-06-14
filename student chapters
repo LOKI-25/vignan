@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Student Chapters</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/Hero-Clean-images.css">
+    <style>
+    body{
+        background-size: 100% 100%;
+      background-position: 0px 0px;
+      background-image: linear-gradient(90deg, #A100FFFF 0%, #71C4FFFF 100%);
+      }
+      html{
+        scroll-behavior: smooth;
+      }
+    </style>
+</head>
+
+<body>
+    <h1 class="text-center pt-5">Student Chapters</h1>
+    <div class="container py-4 py-xl-5">
+        <div class="row gy-4 gy-md-0">
+            <div class="col-md-6">
+                <div class="p-xl-5 m-xl-5"><img class="rounded img-fluid w-100 fit-cover" style="min-height: 300px;" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGomg_kMT-C1w/company-logo_200_200/0/1630383940440?e=2147483647&v=beta&t=56LI_ZRYPA1hkmIfVJbxnT2Cjr-biIWYRwfZIe9IP3k"></div>
+            </div>
+            <div class="col-md-6 d-md-flex align-items-md-center">
+                <div style="max-width: 350px;">
+                    <h2 class="text-uppercase fw-bold">Geeks for geeks</h2>
+                    <p class="my-3"><span style="color: rgb(39, 50, 57);">GeeksforGeeks Student Chapters are university-based community chapters creating a coding culture for students interested in Computer Science &amp; other core technical competencies.&nbsp;</span><br><span style="color: rgb(39, 50, 57);">stablishing a GeeksforGeeks student chapter is not a single-day task. It requires true leadership skills as well as honest dedication or zeal to work for the betterment of the student community. Your vision will decide the future and impactfulness of your chapter.</span><br></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container py-4 py-xl-5">
+        <div class="row gy-4 gy-md-0">
+            <div class="col-md-6 text-center text-md-start d-flex d-sm-flex d-md-flex justify-content-center align-items-center justify-content-md-start align-items-md-center justify-content-xl-center">
+                <div style="max-width: 350px;">
+                    <h2 class="text-uppercase fw-bold">google developer student club</h2>
+                    <p class="my-3">Google Developer Student Clubs (GDSC) are community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="p-xl-5 m-xl-5"><img class="rounded img-fluid w-100 fit-cover" style="min-height: 300px;" src="C:\Users\vamsi\OneDrive\Desktop\gdsc.png"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container py-4 py-xl-5">
+        <div class="row gy-4 gy-md-0">
+            <div class="col-md-6">
+                <div class="p-xl-5 m-xl-5"><img class="rounded img-fluid w-100 fit-cover" style="min-height: 300px;" src="C:\Users\vamsi\OneDrive\Desktop\cd.jpeg"></div>
+            </div>
+            <div class="col-md-6 d-md-flex align-items-md-center">
+                <div style="max-width: 350px;">
+                    <h2 class="text-uppercase fw-bold">codechef</h2>
+                    <p class="my-3"><span style="color: rgb(68, 68, 68);">The mission of CodeChef College Chapters is to build a robust Competitive Programming culture in educational institutions. College Chapters help students become better problem solvers by fostering learning and professional development. We believe every student should be given the proper mentorship and resources to become a better programmer and compete on a global scale.</span><br></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>
